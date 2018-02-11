@@ -1,6 +1,7 @@
 //
 //  AppDelegate.swift
-//  Demo Tracker
+//  Demo Tracker - Running through the tutorial at:
+// https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html
 //
 //  Created by Patrick Lajeunesse on 2018-02-11.
 //  Copyright © 2018 Patrick Lajeunesse. All rights reserved.
